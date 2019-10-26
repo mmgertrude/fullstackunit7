@@ -1,0 +1,9 @@
+React
+lets you breakup code into reusable sections code components
+
+create a react element:
+use React.createElement();
+
+ReactDOM.render(); //connects react to the dom
+
+modify index.html to include the <div id="root"></div>
